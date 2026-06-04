@@ -339,11 +339,17 @@ Keunggulan DCP atas CLAHE bersumber dari perbedaan pendekatan mendasar: CLAHE ha
 
 2. He, K., Sun, J., & Tang, X. (2013). Guided image filtering. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 35(6), 1397--1409. https://doi.org/10.1109/TPAMI.2012.213
 
-3. Zuiderveld, K. (1994). Contrast limited adaptive histogram equalization. In P. S. Heckbert (Ed.), *Graphics Gems IV* (pp. 474--485). Academic Press.
+3. ITU-R. (2011). *BT.601-7: Studio encoding parameters of digital television for standard 4:3 and wide-screen 16:9 aspect ratios*. International Telecommunication Union.
 
 4. Wang, Z., Bovik, A. C., Sheikh, H. R., & Simoncelli, E. P. (2004). Image quality assessment: From error visibility to structural similarity. *IEEE Transactions on Image Processing*, 13(4), 600--612. https://doi.org/10.1109/TIP.2003.819861
 
-5. Parihar, A. S., & Singh, V. (2018). A study on haze removal methods. *Proceedings of the IEEE International Conference on Inventive Communication and Computational Technologies (ICICCT)*, 1210--1215.
+5. Pizer, S. M., Amburn, E. P., Austin, J. D., Cromartie, R., Geselowitz, A., Greer, T., ter Haar Romeny, B., Zimmerman, J. B., & Zuiderveld, K. (1987). *Adaptive histogram equalization and its variations. Computer Vision, Graphics, and Image Processing, 39(3)*, 355–368. 
+
+6. Crow, F. C. (1984). *Summed-area tables for texture mapping. ACM SIGGRAPH Computer Graphics, 18(3)*, 207–212. 
+
+7. Li, B., Ren, W., Fu, D., Tao, D., Feng, D., Zeng, W., & Wang, Z. (2018). *Benchmarking single-image dehazing and beyond. IEEE Transactions on Image Processing, 28(1)*, 492–505.
+
+8. Narasimhan, S. G., & Nayar, S. K. (2002). *Vision and the atmosphere. International Journal of Computer Vision, 48(3)*, 233–254. 
 
 ---
 
